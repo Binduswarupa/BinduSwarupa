@@ -1,31 +1,48 @@
 <h1 align="center">Hi 👋, I'm Bindu Swarupa</h1>
-<h3 align="center">AI & Data Science Enthusiast | MERN Stack Developer | Problem Solver</h3>
+
+<h3 align="center">
+☁️ AWS Cloud Enthusiast | 🎓 AI & DS Graduate | 🤖 AI/ML Engineer | 🧠 Generative AI & Agentic AI Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Student;MERN+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+Enthusiast;AI+%26+DS+Graduate;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Enthusiast;Agentic+AI+Learner;Building+Intelligent+Cloud+Solutions&center=true&width=700&height=50">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Binduswarupa">
+    <img src="https://komarev.com/ghpvc/?username=Binduswarupa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science
+🎓 B.Tech Graduate in Artificial Intelligence & Data Science
 
 🏆 Department Topper with CGPA 9.32
 
-💡 Passionate about AI, Machine Learning, Data Science, and Full Stack Development
+☁️ Passionate about AWS Cloud Computing and Cloud-Native Technologies
 
-🌱 Currently learning Advanced MERN Stack, AI Applications, and Cloud Technologies
+🤖 Interested in Machine Learning, Deep Learning, Generative AI, and Agentic AI
 
-🔭 Working on Smart Proctoring System for Online Exams
+💡 Building intelligent, scalable, and cloud-powered applications
 
-👯 Open to Internship and Full-Time Opportunities
+🌱 Continuously learning AWS Services, AI Technologies, and Modern Software Development
 
-📫 Reach me at: **swarupavemulapallii@gmail.com**
+🔭 Working on AI & Cloud-based Applications
+
+📚 Exploring Multi-Agent Systems and Generative AI Workflows
+
+💬 Ask me about:
+**AWS, AI/ML, Deep Learning, Generative AI, Agentic AI, Python, React, MongoDB**
+
+📫 Reach me at:
+**swarupavemulapallii@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/binduswarupavemulapalli/" target="blank">
@@ -33,7 +50,7 @@
 </a>
 
 <a href="https://github.com/Binduswarupa" target="blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:swarupavemulapallii@gmail.com">
@@ -43,61 +60,104 @@
 
 ---
 
-## 💻 Tech Stack
+# ☁️ Cloud & DevOps
 
-### Programming Languages
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 
-### Frontend
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
 
-### Backend
+<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 
-### Database
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge)
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🤖 AI, ML & Data Science
 
-### 🚦 Intelligent Traffic Violation Detection
-Machine Learning-based system for detecting traffic violations automatically.
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-E65100?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+---
+
+# 🌐 Web Technologies
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+# 📌 Featured Projects
 
 ### 🎓 Smart Proctoring System
-AI-powered online examination monitoring system.
+AI-powered online examination monitoring system using computer vision and machine learning.
+
+### 🚦 Intelligent Traffic Violation Detection
+Machine Learning-based traffic violation detection and monitoring system.
 
 ### 🤖 AI Interview Question Generator
-Generates intelligent interview questions using AI.
+Generates intelligent interview questions using AI techniques.
 
 ### 🐾 Paws & Palates
-Web application for pet care and nutrition management.
+Pet care and nutrition management platform.
 
 ### 🖼️ CNN-Based ID Tag Recognition
-Image classification system using Convolutional Neural Networks.
+Deep Learning-based image classification project.
 
 ---
 
-## 🏅 Certifications
+# 🏆 Certifications
 
 ✅ Salesforce AI Associate
+
+✅ AWS AI & ML Virtual Internship
+
+✅ Google AI & ML Virtual Internship
 
 ✅ Cisco Python Essentials
 
@@ -105,13 +165,11 @@ Image classification system using Convolutional Neural Networks.
 
 ✅ NPTEL Internet of Things
 
-✅ Google AI & ML Virtual Internship
-
-✅ AWS AI & ML Virtual Internship
+✅ Infosys Springboard Certifications
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Binduswarupa&show_icons=true&theme=tokyonight" />
@@ -127,7 +185,7 @@ Image classification system using Convolutional Neural Networks.
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Binduswarupa&theme=algolia&row=1&column=7" />
@@ -135,19 +193,19 @@ Image classification system using Convolutional Neural Networks.
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 [![Bindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Binduswarupa&theme=tokyo-night)](https://github.com/Binduswarupa)
 
 ---
 
-## ✨ Achievement Highlights
+# 🌟 Achievements
 
-🏆 Department Topper
+🏆 Department Topper – AI & DS
 
 📄 Research Paper Presented at ICISSC-2024
 
-🎤 Hosted College Annual Day
+🎤 Hosted College Annual Day Events
 
 🌿 Prakruthi Club Coordinator
 
@@ -155,8 +213,8 @@ Image classification system using Convolutional Neural Networks.
 
 ---
 
-### 💭 Quote
+# 💭 Motto
 
-> "Success is built one commit at a time."
+### "Building Intelligent Cloud-Powered Solutions with AI & AWS ☁️🤖"
 
-⭐ If you like my work, don't forget to star my repositories!
+⭐ If you like my work, consider starring my repositories!
