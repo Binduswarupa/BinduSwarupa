@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+Enthusiast;AI+%26+DS+Graduate;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Enthusiast;Agentic+AI+Learner;Building+Intelligent+Cloud+Solutions&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+Enthusiast;AI+%26+DS+Graduate;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Enthusiast;Web+Developer;Agentic+AI;Building+Intelligent+Cloud+Solutions;Tech+Enthusiast+,Continous+Learner&center=true&width=700&height=50">
 </p>
 
 <p align="center">
