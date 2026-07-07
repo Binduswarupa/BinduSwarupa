@@ -182,7 +182,9 @@ Full-Stack Web Platform Designed to assist pet owners with nutrition planning,pe
 
 
 # 🏆 Certifications
-✅ Aws Cloud Prcationer
+✅ AWS Certified Cloud Prcationer
+
+✅ AWS Certified AI Prcationer
 
 ✅ Salesforce AI Associate
 
@@ -194,7 +196,7 @@ Full-Stack Web Platform Designed to assist pet owners with nutrition planning,pe
 
 # 🌟 Achievements
 
-🏆 Department Topper (CGPA: 9.23) – B.Tech Artificial Intelligence & Data Science
+🏆 Department Topper (CGPA: 9.32) – B.Tech Artificial Intelligence & Data Science
 
 🎓 Awarded a Merit Scholarship of ₹10,000 for securing the highest academic performance in the department during the academic year 2024–25
 
